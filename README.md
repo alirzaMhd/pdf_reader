@@ -1,16 +1,10 @@
 # pdf_reader
 
-A new Flutter project.
+An **open-source** flutter app with the capability of **dark read mode**, **interpreting mode**, **TTS (Text To Speech)**
 
-## Getting Started
+# Design
 
-This project is a starting point for a Flutter application.
+we used https://www.figma.com/file/HnWi9EMmHQCBAUnogRwe0R/PDF-Reader-(Community)?node-id=1%3A140&mode=dev for design
 
-A few resources to get you started if this is your first Flutter project:
+#TODO
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
